@@ -1,0 +1,1 @@
+This project is a hands-on demonstration of Spring's Inversion of Control (IoC) container and Dependency Injection (DI) principles. It illustrates how the Spring framework manages object lifecycle, configuration, and dependencies, promoting loose coupling.
